@@ -1,6 +1,6 @@
 # RoboTrader
 <p>O RoboTrader Consiste em uma Automação de Operações em Bolsa de Valores e Mercadorias e Futuros para a Plataforma MetaTrader. Desenvolvido inicialmente como Projeto de TCC em Eng. de Computação.</p>
-<b>Carlos Bezerra Vilela / UniCarioca Rio Comprido / Engenharia de Computação</b>
+<p>Carlos Bezerra Vilela / UniCarioca Rio Comprido / Engenharia de Computação</p>
 <p><b>Lembrando que não há garantias de lucros, muito menos garantias de um bom gerenciamento de riscos, pois este projeto está em desenvolvimento contínuo, sendo primordial que cada problema de lógica seja aprimorada. Não nos responsabilizamos por prejuízos decorrentes da utilização deste projeto</b></p>
 <p>O Proteto RoboTrader é um sistema para automatizar operações em Bolsa de Valores e Mercadorias e Futuros para a Plataforma MetaTrader, desenvolvido inicialmente como um Projeto de Conclusão de Curso em Engenharia de Computação do Aluno Carlos Bezerra Vilela no Centro Universitário UniCarioca na Unidade de Rio Comprido.</p>
 <p>Houveram exaustivas pesquisas e simulações, sejam Scaper, DayTrader, SwingTrader, com finalidade de compreender a dinâmica do mercado e a formação de preços, mais ainda métodos e estratégias operacionais.</p>
